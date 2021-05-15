@@ -1,0 +1,454 @@
+GEN,nom,img,talent,categorie,poids,taille,description,type2,type1,error
+151,Bulbizarre,https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png,Engrais,Graine,"6,9 kg","0,7 m","
+                  Il y a une graine sur son dos depuis sa naissance. Elle grossit un peu chaque jour.
+                ",Poison,Plante,
+151,Herbizarre,https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png,Engrais,Graine,"13,0 kg","1,0 m","
+                  Son bulbe dorsal est devenu si gros qu'il ne peut plus se tenir sur ses pattes postérieures.
+                ",Poison,Plante,
+151,Florizarre,https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png,Engrais,Graine,"100,0 kg","2,0 m","
+                  Sa plante donne une grosse fleur quand elle absorbe les rayons du soleil. Il est toujours à la recherche des endroits les plus ensoleillés.
+                ",Poison,Plante,
+151,Salamèche,https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png,Brasier,Lézard,"8,5 kg","0,6 m","
+                  Il préfère ce qui est chaud. En cas de pluie, de la vapeur se forme autour de sa queue.
+                ",,Feu,
+151,Reptincel,https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png,Brasier,Flamme,"19,0 kg","1,1 m","
+                  Il est très brutal. En combat, il se sert de ses griffes acérées et de sa queue enflammée pour mettre en pièces ses adversaires.
+                ",,Feu,
+151,Dracaufeu,https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png,Brasier,Flamme,"90,5 kg","1,7 m","
+                  Son souffle brûlant peut faire fondre la roche. Il est parfois la cause d'incendies de forêt.
+                ",Vol,Feu,
+151,Carapuce,https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png,Torrent,Minitortue,"9,0 kg","0,5 m","
+                  Quand il rentre son cou dans sa carapace, il peut projeter de l'eau à haute pression.
+                ",,Eau,
+151,Carabaffe,https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png,Torrent,Tortue,"22,5 kg","1,0 m","
+                  Il est considéré comme un symbole de longévité. On reconnaît les spécimens les plus âgés à la mousse qui pousse sur leur carapace.
+                ",,Eau,
+151,Tortank,https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png,Torrent,Carapace,"85,5 kg","1,6 m","
+                  Il écrase ses adversaires de tout son poids pour leur faire perdre connaissance. Il rentre dans sa carapace s'il se sent en danger.
+                ",,Eau,
+151,Chenipan,https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png,Écran Poudre,Ver,"2,9 kg","0,3 m","
+                  Pour se protéger, il émet par ses antennes une odeur nauséabonde qui fait fuir ses ennemis.
+                ",,Insecte,
+151,Chrysacier,https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png,Mue,Cocon,"9,9 kg","0,7 m","
+                  En attendant sa prochaine évolution, il ne peut que durcir sa carapace et rester immobile pour éviter de se faire attaquer.
+                ",,Insecte,
+151,Papilusion,https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png,Œil Composé,Papillon,"32,0 kg","1,1 m","
+                  En combat, il bat des ailes très rapidement pour projeter de la poudre toxique sur ses ennemis.
+                ",Vol,Insecte,
+151,Aspicot,https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png,Écran Poudre,Insectopic,"3,2 kg","0,3 m","
+                  L'aiguillon sur son front est très pointu. Il se cache dans les bois et les hautes herbes, où il se gave de feuilles.
+                ",Poison,Insecte,
+151,Coconfort,https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png,Mue,Cocon,"10,0 kg","0,6 m","
+                  Il peut à peine bouger. Quand il est menacé, il sort parfois son aiguillon pour empoisonner ses ennemis.
+                ",Poison,Insecte,
+151,Dardargnan,https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png,Essaim,Guêpoison,"29,5 kg","1,0 m","
+                  Il se sert de ses trois aiguillons empoisonnés situés sur les pattes avant et l'abdomen pour attaquer sans relâche ses adversaires.
+                ",Poison,Insecte,
+151,Roucool,https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png,Regard Vif,Minoiseau,"1,8 kg","0,3 m","
+                  De nature très docile, il préfère projeter du sable pour se défendre plutôt que contre-attaquer.
+                ",Vol,Normal,
+151,Roucoups,https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png,Regard Vif,Oiseau,"30,0 kg","1,1 m","
+                  Ce Pokémon est très endurant. Il survole en permanence son territoire pour chasser.
+                ",Vol,Normal,
+151,Roucarnage,https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png,Regard Vif,Oiseau,"39,5 kg","1,5 m","
+                  Ce Pokémon vole à Mach 2 quand il chasse. Ses grandes serres sont des armes redoutables.
+                ",Vol,Normal,
+151,Rattata,https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png,Fuite,Souris,"3,5 kg","0,3 m","
+                  Il peut ronger n'importe quoi avec ses deux dents. Quand on en voit un, il y en a certainement 40 dans le coin.
+                ",,Normal,
+151,Rattatac,https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png,Fuite,Souris,"18,5 kg","0,7 m","
+                  Ses pattes arrière sont palmées. Il peut donc poursuivre sa proie dans les cours d'eau et les rivières.
+                ",,Normal,
+151,Piafabec,https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png,Regard Vif,Minoiseau,"2,0 kg","0,3 m","
+                  Il est incapable de voler à haute altitude. Il se déplace très vite pour protéger son territoire.
+                ",Vol,Normal,
+151,Rapasdepic,https://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png,Regard Vif,Bec-Oiseau,"38,0 kg","1,2 m","
+                  Un Pokémon très ancien. S'il perçoit un danger, il fuit instantanément à haute altitude.
+                ",Vol,Normal,
+151,Abo,https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png,Mue,Serpent,"6,9 kg","2,0 m","
+                  Plus il est âgé, plus son corps est long. La nuit, il s'enroule autour de branches d'arbres pour se reposer.
+                ",,Poison,
+151,Arbok,https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png,Mue,Cobra,"65,0 kg","3,5 m","
+                  Des études ont révélé que les marques effrayantes de son corps pouvaient former six motifs différents.
+                ",,Poison,
+151,Pikachu,https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png,Statik,Souris,"6,0 kg","0,4 m","
+                  Plus la puissance électrique de Pikachu est élevée, plus les poches de ses joues sont extensibles.
+                ",,Électrik,
+151,Raichu,https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png,Statik,Souris,"30,0 kg","0,8 m","
+                  Sa longue queue agit comme une prise de terre qui l'empêche d'être affecté par le courant à haute tension accumulé dans son corps.
+                ",,Électrik,
+151,Sabelette,https://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png,Voile Sable,Souris,"12,0 kg","0,6 m","
+                  Il aime se rouler dans le sable des zones désertiques pour se débarrasser des traces de terre et d'humidité qui lui collent à la peau.
+                ",,Sol,
+151,Sablaireau,https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png,Voile Sable,Souris,"29,5 kg","1,0 m","
+                  Plus son habitat est sec, plus ses épines dorsales deviennent dures et lisses.
+                ",,Sol,
+151,Nidoran♀,https://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png,Point Poison,Vénépic,"7,0 kg","0,4 m","
+                  Un Pokémon paisible qui n'aime pas se battre. Sa petite corne est empoisonnée.
+                ",,Poison,
+151,Nidorina,https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png,Point Poison,Vénépic,"20,0 kg","0,8 m","
+                  Quand ce Pokémon s'abrite au fond de son terrier, ses cornes se rétractent. C'est signe qu'il est détendu.
+                ",,Poison,
+151,Nidoqueen,https://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png,Point Poison,Perceur,"60,0 kg","1,3 m","
+                  Son corps musclé est recouvert de dures écailles. On dit qu'elles peuvent repousser.
+                ",Sol,Poison,
+151,Nidoran♂,https://assets.pokemon.com/assets/cms2/img/pokedex/full/032.png,Point Poison,Vénépic,"9,0 kg","0,5 m","
+                  Ses grandes oreilles sont toujours dressées et à l'affût de ce qu'il se passe alentour. S'il est menacé, il se défend avec ses dards venimeux.
+                ",,Poison,
+151,Nidorino,https://assets.pokemon.com/assets/cms2/img/pokedex/full/033.png,Point Poison,Vénépic,"19,5 kg","0,9 m","
+                  Sa corne est venimeuse. Si elle perce un ennemi, elle lui injecte un poison violent.
+                ",,Poison,
+151,Nidoking,https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png,Point Poison,Perceur,"62,0 kg","1,4 m","
+                  Ses charges sont dévastatrices grâce à sa peau d'acier. Sa corne perce même le diamant.
+                ",Sol,Poison,
+151,Mélofée,https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png,Joli Sourire,Fée,"7,5 kg","0,6 m","
+                  On dit que ceux qui voient danser un groupe de Mélofée sous la pleine lune connaîtront un grand bonheur.
+                ",,Fée,
+151,Mélodelfe,https://assets.pokemon.com/assets/cms2/img/pokedex/full/036.png,Joli Sourire,Fée,"40,0 kg","1,3 m","
+                  Ce Pokémon s'apparente à une petite fée qui n'apparaît que rarement devant les humains. Il court se cacher dès qu'il ressent une présence.
+                ",,Fée,
+151,Goupix,https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png,Torche,Renard,"9,9 kg","0,6 m","
+                  Quand il est jeune, ce Pokémon a six queues magnifiques. De nouvelles queues apparaissent tout au long de sa croissance.
+                ",,Feu,
+151,Feunard,https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png,Torche,Renard,"19,9 kg","1,1 m","
+                  On dit qu'il vit 1 000 ans et que chacune de ses queues a un pouvoir magique.
+                ",,Feu,
+151,Rondoudou,https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png,Joli Sourire,Bouboule,"5,5 kg","0,5 m","
+                  Il a une des meilleures capacités pulmonaires parmi les Pokémon. Il chante des berceuses à son adversaire jusqu'à ce que sommeil s'ensuive.
+                ",Fée,Normal,
+151,Grodoudou,https://assets.pokemon.com/assets/cms2/img/pokedex/full/040.png,Joli Sourire,Bouboule,"12,0 kg","1,0 m","
+                  Son corps gonfle à mesure qu'il inspire de l'air. Il se sert de cette particularité pour se grandir et intimider son adversaire quand il est en colère.
+                ",Fée,Normal,
+151,Nosferapti,https://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png,Attention,Chovsouris,"7,5 kg","0,8 m","
+                  Il émet des ultrasons pour se diriger et éviter les obstacles sur son trajet.
+                ",Vol,Poison,
+151,Nosferalto,https://assets.pokemon.com/assets/cms2/img/pokedex/full/042.png,Attention,Chovsouris,"55,0 kg","1,6 m","
+                  Il s'approche furtivement et attaque sans crier gare. Ses crocs acérés lui servent à sucer le sang.
+                ",Vol,Poison,
+151,Mystherbe,https://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png,Chlorophylle,Racine,"5,4 kg","0,5 m","
+                  Il ne bouge que lorsqu'il est exposé aux rayons de la lune. Il se déplace alors pour disséminer ses graines.
+                ",Poison,Plante,
+151,Ortide,https://assets.pokemon.com/assets/cms2/img/pokedex/full/044.png,Chlorophylle,Racine,"8,6 kg","0,8 m","
+                  Ses pistils sécrètent une odeur incroyablement fétide qui fait perdre connaissance à ses adversaires jusqu'à 2 km à la ronde.
+                ",Poison,Plante,
+151,Rafflesia,https://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png,Chlorophylle,Fleur,"18,6 kg","1,2 m","
+                  Il possède les plus gros pétales au monde, qui sèment d'épais nuages de pollen toxique à chacun de ses pas.
+                ",Poison,Plante,
+151,Paras,https://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png,Pose Spore,Champignon,"5,4 kg","0,3 m","
+                  Il s'enfouit pour ronger des racines, mais ce sont les champignons sur son dos qui absorbent presque tous les nutriments.
+                ",Plante,Insecte,
+151,Parasect,https://assets.pokemon.com/assets/cms2/img/pokedex/full/047.png,Pose Spore,Champignon,"29,5 kg","1,0 m","
+                  À force de voir son énergie aspirée, il semblerait que ce ne soit plus l'insecte qui réfléchisse, mais le champignon sur son dos.
+                ",Plante,Insecte,
+151,Mimitoss,https://assets.pokemon.com/assets/cms2/img/pokedex/full/048.png,Œil Composé,Vermine,"30,0 kg","1,0 m","
+                  Ses grands yeux lui servent de radar. En pleine lumière, on peut y distinguer des facettes.
+                ",Poison,Insecte,
+151,Aéromite,https://assets.pokemon.com/assets/cms2/img/pokedex/full/049.png,Écran Poudre,Papipoison,"12,5 kg","1,5 m","
+                  Les écailles de ses ailes sont presque impossibles à retirer lorsqu'elles se collent à la peau, et elles libèrent un poison violent au contact.
+                ",Poison,Insecte,
+151,Taupiqueur,https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png,Voile Sable,Taupe,"0,8 kg","0,2 m","
+                  Si un Taupiqueur creuse un tunnel sous un champ, il retourne la terre et améliore les récoltes.
+                ",,Sol,
+151,Triopikeur,https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png,Voile Sable,Taupe,"33,3 kg","0,7 m","
+                  Ces triplés forment une équipe de choc. Ils causent parfois des séismes lorsqu'ils creusent jusqu'à 100 km de profondeur.
+                ",,Sol,
+151,Miaouss,https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png,Ramassage,Chadégout,"4,2 kg","0,4 m","
+                  Il aime rassembler des objets brillants. S'il est de bonne humeur, il montre sa collection à son Dresseur.
+                ",,Normal,
+151,Persian,https://assets.pokemon.com/assets/cms2/img/pokedex/full/053.png,Technicien,Chadeville,"32,0 kg","1,0 m","
+                  Très fier, il est difficile à apprivoiser. Dès que quelque chose ne lui plaît pas, il sort les griffes.
+                ",,Normal,
+151,Psykokwak,https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png,Moiteur,Canard,"19,6 kg","0,8 m","
+                  Il a toujours la migraine, mais la douleur semble s'atténuer momentanément s'il laisse exploser son pouvoir mystérieux.
+                ",,Eau,
+151,Akwakwak,https://assets.pokemon.com/assets/cms2/img/pokedex/full/055.png,Moiteur,Canard,"76,6 kg","1,7 m","
+                  Vivant dans les rivières au cours tranquille, il se sert de ses longs membres pour nager avec élégance.
+                ",,Eau,
+151,Férosinge,https://assets.pokemon.com/assets/cms2/img/pokedex/full/056.png,Esprit Vital,Porsinge,"28,0 kg","0,5 m","
+                  Agile et rapide, ce Pokémon vit dans les arbres. Il s'énerve facilement et s'attaque à tout ce qui bouge quand il est en colère.
+                ",,Combat,
+151,Colossinge,https://assets.pokemon.com/assets/cms2/img/pokedex/full/057.png,Esprit Vital,Porsinge,"32,0 kg","1,0 m","
+                  Sa fureur prend fin quand il n'a plus personne à frapper. Il est difficile d'en être témoin.
+                ",,Combat,
+151,Caninos,https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png,Intimidation,Chiot,"19,0 kg","0,7 m","
+                  Il est courageux et fiable. Il se dresse vaillamment devant ses ennemis même s'ils sont plus puissants.
+                ",,Feu,
+151,Arcanin,https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png,Intimidation,Légendaire,"155,0 kg","1,9 m","
+                  De nombreuses personnes ont été charmées à la vue de ce Pokémon parcourant 10 000 km en 24 heures.
+                ",,Feu,
+151,Ptitard,https://assets.pokemon.com/assets/cms2/img/pokedex/full/060.png,Moiteur,Têtard,"12,4 kg","0,6 m","
+                  Il est plus à l'aise dans l'eau que sur la terre ferme. Le motif de spirale sur son ventre est en fait une partie de ses organes visibles à travers la peau.
+                ",,Eau,
+151,Têtarte,https://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png,Moiteur,Têtard,"20,0 kg","1,0 m","
+                  Il suffit de fixer la spirale sur son ventre pour s'assoupir. On se sert parfois de lui à la place d'une berceuse pour endormir les enfants.
+                ",,Eau,
+151,Tartard,https://assets.pokemon.com/assets/cms2/img/pokedex/full/062.png,Moiteur,Têtard,"54,0 kg","1,3 m","
+                  Cette véritable montagne de muscles peut se frayer un chemin même dans les eaux glaciales en éclatant la banquise avec ses bras robustes.
+                ",Combat,Eau,
+151,Abra,https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png,Attention,Psy,"19,5 kg","0,9 m","
+                  Le contenu de ses rêves influe sur les pouvoirs psychiques qu'il utilise dans son sommeil.
+                ",,Psy,
+151,Kadabra,https://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png,Attention,Psy,"56,5 kg","1,3 m","
+                  Ses pouvoirs psychiques lui permettent de léviter en dormant. Il utilise alors sa queue très souple comme un oreiller.
+                ",,Psy,
+151,Alakazam,https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png,Attention,Psy,"48,0 kg","1,5 m","
+                  Doué d'une intelligence hors du commun, ce Pokémon serait capable de conserver tous ses souvenirs, de sa naissance jusqu'à sa mort.
+                ",,Psy,
+151,Machoc,https://assets.pokemon.com/assets/cms2/img/pokedex/full/066.png,Cran,Colosse,"19,5 kg","0,8 m","
+                  Son corps est essentiellement composé de muscles. Même s'il fait la taille d'un petit enfant, il peut soulever 100 adultes avec ses bras.
+                ",,Combat,
+151,Machopeur,https://assets.pokemon.com/assets/cms2/img/pokedex/full/067.png,Cran,Colosse,"70,5 kg","1,5 m","
+                  Son corps est si puissant qu'il lui faut une ceinture pour maîtriser sa force.
+                ",,Combat,
+151,Mackogneur,https://assets.pokemon.com/assets/cms2/img/pokedex/full/068.png,Cran,Colosse,"130,0 kg","1,6 m","
+                  Il peut bouger ses quatre bras à grande vitesse et frapper du poing ou du tranchant de la main dans toutes les directions sans se fatiguer.
+                ",,Combat,
+151,Chétiflor,https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png,Chlorophylle,Fleur,"4,0 kg","0,7 m","
+                  Il préfère les endroits chauds et humides. Il capture les Pokémon Insecte avec ses lianes pour les dévorer.
+                ",Poison,Plante,
+151,Boustiflor,https://assets.pokemon.com/assets/cms2/img/pokedex/full/070.png,Chlorophylle,Carnivore,"6,4 kg","1,0 m","
+                  Quand il a faim, il avale tout ce qui bouge, puis achève ses proies avec de l'acide.
+                ",Poison,Plante,
+151,Empiflor,https://assets.pokemon.com/assets/cms2/img/pokedex/full/071.png,Chlorophylle,Carnivore,"15,5 kg","1,7 m","
+                  Il attire ses proies avec une odeur de miel et les avale tout entières. Il les digère en un jour seulement, les os y compris.
+                ",Poison,Plante,
+151,Tentacool,https://assets.pokemon.com/assets/cms2/img/pokedex/full/072.png,Corps Sain,Mollusque,"45,5 kg","0,9 m","
+                  Peu doué pour la natation, ce Pokémon se contente de flotter à la surface des eaux peu profondes pour chasser ses proies.
+                ",Poison,Eau,
+151,Tentacruel,https://assets.pokemon.com/assets/cms2/img/pokedex/full/073.png,Corps Sain,Mollusque,"55,0 kg","1,6 m","
+                  Il faut faire attention lorsque les globes rouges sur sa tête se mettent à briller intensément, car c'est qu'il s'apprête à émettre des ultrasons.
+                ",Poison,Eau,
+151,Racaillou,https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png,Tête de Roc,Roche,"20,0 kg","0,4 m","
+                  On en trouve près des sentiers de montagne. Si vous marchez dessus par inadvertance, ils s'énervent et attaquent.
+                ",Sol,Roche,
+151,Gravalanch,https://assets.pokemon.com/assets/cms2/img/pokedex/full/075.png,Tête de Roc,Roche,"105,0 kg","1,0 m","
+                  Il dévale les sentiers de montagne et traverse les obstacles en les pulvérisant.
+                ",Sol,Roche,
+151,Grolem,https://assets.pokemon.com/assets/cms2/img/pokedex/full/076.png,Tête de Roc,Titanesque,"300,0 kg","1,4 m","
+                  Juste après la mue, son corps est blanc et tendre. Au contact de l'air, sa peau se solidifie et forme une armure.
+                ",Sol,Roche,
+151,Ponyta,https://assets.pokemon.com/assets/cms2/img/pokedex/full/077.png,Fuite,Cheval Feu,"30,0 kg","1,0 m","
+                  À la naissance, il ne court pas très vite. C'est en faisant la course avec ses camarades qu'il se muscle les jambes.
+                ",,Feu,
+151,Galopa,https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png,Fuite,Cheval Feu,"95,0 kg","1,7 m","
+                  Ce Pokémon traverse les plaines à plus de 240 km/h, sa crinière flamboyante flottant au vent.
+                ",,Feu,
+151,Ramoloss,https://assets.pokemon.com/assets/cms2/img/pokedex/full/079.png,Benêt,Crétin,"36,0 kg","1,2 m","
+                  Il est si bête et si lent qu'il n'a pas mal lorsqu'on mange un morceau de sa queue. Il ne remarque même pas quand elle repousse.
+                ",Psy,Eau,
+151,Flagadoss,https://assets.pokemon.com/assets/cms2/img/pokedex/full/080.png,Benêt,Symbiose,"78,5 kg","1,6 m","
+                  Il a évolué après qu'un Kokiyas lui a mordu la queue. Celle-ci sécrète une substance sucrée qui enchante particulièrement les Kokiyas.
+                ",Psy,Eau,
+151,Magnéti,https://assets.pokemon.com/assets/cms2/img/pokedex/full/081.png,Fermeté,Magnétique,"6,0 kg","0,3 m","
+                  Il lui arrive d'être à court d'électricité et de tomber au sol, mais il suffit de lui donner une batterie pour le ranimer.
+                ",Acier,Électrik,
+151,Magnéton,https://assets.pokemon.com/assets/cms2/img/pokedex/full/082.png,Fermeté,Magnétique,"60,0 kg","1,0 m","
+                  La fusion de trois Magnéti a donné naissance à ce Pokémon. Il surveille les alentours en libérant de puissantes ondes électriques.
+                ",Acier,Électrik,
+151,Canarticho,https://assets.pokemon.com/assets/cms2/img/pokedex/full/083.png,Regard Vif,Canard Fou,"15,0 kg","0,8 m","
+                  Il tranche ses adversaires avec sa tige, qu'il manie comme une épée. Quand la situation l'exige, il s'en nourrit.
+                ",Vol,Normal,
+151,Doduo,https://assets.pokemon.com/assets/cms2/img/pokedex/full/084.png,Fuite,Duoiseau,"39,2 kg","1,4 m","
+                  Ses petites ailes ne lui permettent pas de voler, mais grâce à ses puissantes pattes, il peut courir très rapidement.
+                ",Vol,Normal,
+151,Dodrio,https://assets.pokemon.com/assets/cms2/img/pokedex/full/085.png,Fuite,Trioiseau,"85,2 kg","1,8 m","
+                  Quand une des têtes de Doduo se divise, il devient un Dodrio capable de courir à 60 km/h.
+                ",Vol,Normal,
+151,Otaria,https://assets.pokemon.com/assets/cms2/img/pokedex/full/086.png,Isograisse,Otarie,"90,0 kg","1,1 m","
+                  Il est à l'aise dans les endroits gelés. Il nage avec plaisir dans de l'eau à -10 ºC.
+                ",,Eau,
+151,Lamantine,https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png,Isograisse,Otarie,"120,0 kg","1,7 m","
+                  Son corps entier est aussi blanc que la neige. Il résiste bien au froid et peut même nager au milieu des icebergs.
+                ",Glace,Eau,
+151,Tadmorv,https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png,Puanteur,Dégueu,"30,0 kg","0,9 m","
+                  Ce tas de fange sent si mauvais qu'il est impossible de le toucher. Plus rien ne pousse dans son sillage putride.
+                ",,Poison,
+151,Grotadmorv,https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png,Puanteur,Dégueu,"30,0 kg","1,2 m","
+                  Son odeur immonde provoque des évanouissements. Son odorat s'est atrophié à cause de sa propre puanteur.
+                ",,Poison,
+151,Kokiyas,https://assets.pokemon.com/assets/cms2/img/pokedex/full/090.png,Coque Armure,Bivalve,"4,0 kg","0,3 m","
+                  Il nage vers l'arrière à grande vitesse en ouvrant puis refermant sa coquille.
+                ",,Eau,
+151,Crustabri,https://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png,Coque Armure,Bivalve,"132,5 kg","1,5 m","
+                  Sa coquille est tellement résistante que rien ne peut la détruire, pas même une déflagration. Il ne l'ouvre que lorsqu'il attaque.
+                ",Glace,Eau,
+151,Fantominus,https://assets.pokemon.com/assets/cms2/img/pokedex/full/092.png,Lévitation,Gaz,"0,1 kg","1,3 m","
+                  Le corps de ce Pokémon s'est formé à partir de gaz si toxiques qu'ils pourraient faire perdre connaissance à n'importe qui.
+                ",Poison,Spectre,
+151,Spectrum,https://assets.pokemon.com/assets/cms2/img/pokedex/full/093.png,Lévitation,Gaz,"0,1 kg","1,6 m","
+                  On raconte que quiconque est léché par sa langue faite de gaz est pris de tremblements jusqu'à ce que mort s'ensuive.
+                ",Poison,Spectre,
+151,Ectoplasma,https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png,Corps Maudit,Ombre,"40,5 kg","1,5 m","
+                  Un soir de pleine lune, si une ombre se met à bouger et éclate de rire, c'est sûrement l'œuvre d'un Ectoplasma.
+                ",Poison,Spectre,
+151,Onix,https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png,Tête de Roc,Serpenroc,"210,0 kg","8,8 m","
+                  Il absorbe des éléments solides en creusant le sol, ce qui le rend plus robuste.
+                ",Sol,Roche,
+151,Soporifik,https://assets.pokemon.com/assets/cms2/img/pokedex/full/096.png,Insomnia,Hypnose,"32,4 kg","1,0 m","
+                  Si vous dormez tout le temps près de lui, il partagera parfois avec vous les rêves qu'il a dévorés par le passé.
+                ",,Psy,
+151,Hypnomade,https://assets.pokemon.com/assets/cms2/img/pokedex/full/097.png,Insomnia,Hypnose,"75,6 kg","1,6 m","
+                  Évitez son regard quand vous en croisez un, ou il pourrait essayer de vous hypnotiser avec son pendule.
+                ",,Psy,
+151,Krabby,https://assets.pokemon.com/assets/cms2/img/pokedex/full/098.png,Coque Armure,Doux Crabe,"6,5 kg","0,4 m","
+                  On trouve ce Pokémon près de la mer. Ses grosses pinces peuvent repousser si elles sont arrachées.
+                ",,Eau,
+151,Krabboss,https://assets.pokemon.com/assets/cms2/img/pokedex/full/099.png,Coque Armure,Pince,"60,0 kg","1,3 m","
+                  Sa grosse pince est dotée d'une puissance incommensurable. Sa taille imposante la rend toutefois difficile à utiliser.
+                ",,Eau,
+151,Voltorbe,https://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png,Statik,Balle,"10,4 kg","0,5 m","
+                  On dit qu'il se déguise en Poké Ball. Il s'autodétruit à la moindre stimulation.
+                ",,Électrik,
+151,Électrode,https://assets.pokemon.com/assets/cms2/img/pokedex/full/101.png,Statik,Balle,"66,6 kg","1,2 m","
+                  Il stocke de l'énergie électrique dans son corps, ce qui le rend instable et explosif.
+                ",,Électrik,
+151,Noeunoeuf,https://assets.pokemon.com/assets/cms2/img/pokedex/full/102.png,Chlorophylle,Œuf,"2,5 kg","0,4 m","
+                  Même s'il ressemble à un tas d'œufs, il s'agit bien d'un Pokémon. Il paraît qu'ils communiquent entre eux par télépathie.
+                ",Psy,Plante,
+151,Noadkoko,https://assets.pokemon.com/assets/cms2/img/pokedex/full/103.png,Chlorophylle,Fruitpalme,"120,0 kg","2,0 m","
+                  Chacune de ses trois têtes pense de manière autonome. Elles ne semblent s'intéresser qu'à elles-mêmes.
+                ",Psy,Plante,
+151,Osselait,https://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png,Tête de Roc,Solitaire,"6,5 kg","0,4 m","
+                  Lorsqu'il repense à sa mère défunte, ses sanglots résonnent tristement sous le crâne qu'il porte sur la tête.
+                ",,Sol,
+151,Ossatueur,https://assets.pokemon.com/assets/cms2/img/pokedex/full/105.png,Tête de Roc,Gard'Os,"45,0 kg","1,0 m","
+                  Il s'est endurci et a évolué depuis qu'il a réussi à surmonter sa peine. Il utilise son os en guise d'arme et affronte ses ennemis avec bravoure.
+                ",,Sol,
+151,Kicklee,https://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png,Échauffement,Latteur,"49,8 kg","1,5 m","
+                  Il possède un fantastique sens de l'équilibre, et peut donner des rafales de coups de pied dans toutes les positions.
+                ",,Combat,
+151,Tygnon,https://assets.pokemon.com/assets/cms2/img/pokedex/full/107.png,Regard Vif,Puncheur,"50,2 kg","1,4 m","
+                  Ses poings fendent l'air. Ils sont si rapides qu'un simple frôlement peut causer une brûlure.
+                ",,Combat,
+151,Excelangue,https://assets.pokemon.com/assets/cms2/img/pokedex/full/108.png,Benêt,Lécheur,"65,5 kg","1,2 m","
+                  Si sa salive gluante entre en contact avec la peau et qu'on ne l'essuie pas bien, elle provoque de terribles démangeaisons qui ne s'arrêtent jamais.
+                ",,Normal,
+151,Smogo,https://assets.pokemon.com/assets/cms2/img/pokedex/full/109.png,Lévitation,Gaz Mortel,"1,0 kg","0,6 m","
+                  Son corps est gonflé de gaz toxique. Il se rend dans les décharges, attiré par l'odeur des déchets alimentaires en décomposition.
+                ",,Poison,
+151,Smogogo,https://assets.pokemon.com/assets/cms2/img/pokedex/full/110.png,Lévitation,Gaz Mortel,"9,5 kg","1,2 m","
+                  Il mélange des gaz dans ses deux corps. On raconte qu'autrefois, on en voyait partout dans la région de Galar.
+                ",,Poison,
+151,Rhinocorne,https://assets.pokemon.com/assets/cms2/img/pokedex/full/111.png,Tête de Roc,Piquant,"115,0 kg","1,0 m","
+                  Costaud, mais pas très intelligent, ce Pokémon est capable de détruire un immeuble entier en fonçant dessus.
+                ",Roche,Sol,
+151,Rhinoféros,https://assets.pokemon.com/assets/cms2/img/pokedex/full/112.png,Tête de Roc,Perceur,"120,0 kg","1,9 m","
+                  L'évolution a permis à ce Pokémon de marcher sur ses pattes postérieures. Il peut faire des trous dans les rochers en utilisant sa corne.
+                ",Roche,Sol,
+151,Leveinard,https://assets.pokemon.com/assets/cms2/img/pokedex/full/113.png,Médic Nature,Œuf,"34,6 kg","1,1 m","
+                  Ses œufs sont si délicieux et nutritifs qu'on les considère comme des ingrédients de luxe.
+                ",,Normal,
+151,Saquedeneu,https://assets.pokemon.com/assets/cms2/img/pokedex/full/114.png,Chlorophylle,Vigne,"35,0 kg","1,0 m","
+                  On ne sait toujours pas ce qui se cache sous ses lianes. Même si on les coupe, elles repoussent à l'infini.
+                ",,Plante,
+151,Kangourex,https://assets.pokemon.com/assets/cms2/img/pokedex/full/115.png,Matinal,Maternel,"80,0 kg","2,2 m","
+                  Porter son petit dans sa poche ventrale ne l'empêche pas d'avoir un bon jeu de jambes. Ses coups rapides intimident ses ennemis.
+                ",,Normal,
+151,Hypotrempe,https://assets.pokemon.com/assets/cms2/img/pokedex/full/116.png,Glissade,Dragon,"8,0 kg","0,4 m","
+                  Il vit dans les mers calmes. Quand on l'attaque, il crache de l'encre noire et profite de la diversion pour s'enfuir.
+                ",,Eau,
+151,Hypocéan,https://assets.pokemon.com/assets/cms2/img/pokedex/full/117.png,Point Poison,Dragon,"25,0 kg","1,2 m","
+                  Les mâles s'occupent des petits, et tant qu'ils en ont à élever, le venin contenu dans leurs épines dorsales devient beaucoup plus fort.
+                ",,Eau,
+151,Poissirène,https://assets.pokemon.com/assets/cms2/img/pokedex/full/118.png,Glissade,Poisson,"15,0 kg","0,6 m","
+                  Ses nageoires dorsales, pectorales et caudales ondulent avec élégance. Il est surnommé le « danseur des flots ».
+                ",,Eau,
+151,Poissoroy,https://assets.pokemon.com/assets/cms2/img/pokedex/full/119.png,Glissade,Poisson,"39,0 kg","1,3 m","
+                  En automne, à la saison des amours, il fait des réserves de graisse et arbore des couleurs chatoyantes.
+                ",,Eau,
+151,Stari,https://assets.pokemon.com/assets/cms2/img/pokedex/full/120.png,Médic Nature,Étoile,"34,5 kg","0,8 m","
+                  Lorsqu'on se rend en bord de mer à la fin de l'été, on peut voir des groupes de Stari clignoter à un rythme régulier.
+                ",,Eau,
+151,Staross,https://assets.pokemon.com/assets/cms2/img/pokedex/full/121.png,Médic Nature,Mystérieux,"80,0 kg","1,1 m","
+                  S'il déchaîne son pouvoir psychique puissant, son organe appelé « cœur » se met à briller de sept couleurs.
+                ",Psy,Eau,
+151,M. Mime,https://assets.pokemon.com/assets/cms2/img/pokedex/full/122.png,Anti-Bruit,Bloqueur,"54,5 kg","1,3 m","
+                  De nombreux savants pensent que ses mains se sont développées pour faire de la pantomime.
+                ",Fée,Psy,
+151,Insécateur,https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png,Essaim,Mante,"56,0 kg","1,5 m","
+                  Ses faux deviennent plus aiguisées à mesure qu'il se bat. Il peut trancher un grand arbre d'un seul coup.
+                ",Vol,Insecte,
+151,Lippoutou,https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png,Benêt,Humanoïde,"40,6 kg","1,4 m","
+                  Ce Pokémon bouge en rythme comme s'il dansait. Il ondule même du popotin quand il marche.
+                ",Psy,Glace,
+151,Élektek,https://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png,Statik,Électrique,"30,0 kg","1,1 m","
+                  Il provoque de grosses pannes de courant en se nourrissant de l'électricité des centrales.
+                ",,Électrik,
+151,Magmar,https://assets.pokemon.com/assets/cms2/img/pokedex/full/126.png,Corps Ardent,Crache-Feu,"44,5 kg","1,3 m","
+                  Né dans le cratère d'un volcan, son corps est recouvert de flammes. Il ressemble ainsi à une boule de feu.
+                ",,Feu,
+151,Scarabrute,https://assets.pokemon.com/assets/cms2/img/pokedex/full/127.png,Hyper Cutter,Scarabée,"55,0 kg","1,5 m","
+                  Ses cornes déterminent son rang au sein du groupe. Plus elles sont imposantes, plus les membres du sexe opposé l'apprécient.
+                ",,Insecte,
+151,Tauros,https://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png,Intimidation,Buffle,"88,4 kg","1,4 m","
+                  Il faut prendre garde quand un Tauros fouette son corps avec ses queues. Cela signifie qu'il s'apprête à charger à une vitesse démentielle.
+                ",,Normal,
+151,Magicarpe,https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png,Glissade,Poisson,"10,0 kg","0,9 m","
+                  Il manque totalement de vitesse et de force. C'est le Pokémon le plus pathétique au monde.
+                ",,Eau,
+151,Léviator,https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png,Intimidation,Terrifiant,"235,0 kg","6,5 m","
+                  Il est d'une nature très agressive. Les lasers qu'il tire de sa bouche sont capables de désintégrer n'importe quelle cible.
+                ",Vol,Eau,
+151,Lokhlass,https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png,Absorbe-Eau,Transport,"220,0 kg","2,5 m","
+                  C'est un Pokémon doux et intelligent. Il vogue sur la mer en émettant un chant magnifique.
+                ",Glace,Eau,
+151,Métamorph,https://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png,Échauffement,Morphing,"4,0 kg","0,3 m","
+                  Il modifie sa structure cellulaire pour copier l'apparence de ce qu'il voit, mais au repos, il reprend sa forme normale.
+                ",,Normal,
+151,Évoli,https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png,Fuite,Évolutif,"6,5 kg","0,3 m","
+                  Il a la capacité de changer la composition de son corps pour s'adapter à son environnement.
+                ",,Normal,
+151,Aquali,https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png,Absorbe-Eau,Bulleur,"29,0 kg","1,0 m","
+                  Quand ses nageoires se mettent à vibrer, c'est le signe qu'il va pleuvoir dans les heures qui suivent.
+                ",,Eau,
+151,Voltali,https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png,Absorbe-Volt,Orage,"24,5 kg","0,8 m","
+                  S'il est irrité ou surpris, toute la fourrure de son corps se dresse comme des aiguilles pour percer ses ennemis.
+                ",,Électrik,
+151,Pyroli,https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png,Torche,Flamme,"25,0 kg","0,9 m","
+                  Après avoir emmagasiné suffisamment de chaleur, sa température corporelle peut monter jusqu'à 900 ºC.
+                ",,Feu,
+151,Porygon,https://assets.pokemon.com/assets/cms2/img/pokedex/full/137.png,Calque,Virtuel,"36,5 kg","0,8 m","
+                  C'est le premier Pokémon au monde à avoir été créé à partir de programmes informatiques, grâce à une technologie de pointe.
+                ",,Normal,
+151,Amonita,https://assets.pokemon.com/assets/cms2/img/pokedex/full/138.png,Coque Armure,Spirale,"7,5 kg","0,4 m","
+                  Un ancien Pokémon reconstitué à partir d'un fossile. Il nageait dans les mers antiques grâce à ses dix tentacules.
+                ",Eau,Roche,
+151,Amonistar,https://assets.pokemon.com/assets/cms2/img/pokedex/full/139.png,Coque Armure,Spirale,"35,0 kg","1,0 m","
+                  Sa bouche est formée de crocs aiguisés. Il aurait disparu car sa coquille, trop grosse, l'empêchait de se déplacer facilement.
+                ",Eau,Roche,
+151,Kabuto,https://assets.pokemon.com/assets/cms2/img/pokedex/full/140.png,Glissade,Carapace,"11,5 kg","0,5 m","
+                  Un Pokémon reconstitué à partir d'un fossile. Il utilise les yeux situés sur son dos pour regarder alentour quand il se cache au fond de l'eau.
+                ",Eau,Roche,
+151,Kabutops,https://assets.pokemon.com/assets/cms2/img/pokedex/full/141.png,Glissade,Carapace,"40,5 kg","1,3 m","
+                  Ce Pokémon au corps fin est très bon nageur. Il lacère sa proie de ses longues griffes pour en absorber les fluides corporels.
+                ",Eau,Roche,
+151,Ptéra,https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png,Tête de Roc,Fossile,"59,0 kg","1,8 m","
+                  Un Pokémon féroce disparu il y a longtemps. Il a été reconstitué à partir d'ADN fossilisé dans de l'ambre.
+                ",Vol,Roche,
+151,Ronflex,https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png,Isograisse,Pionceur,"460,0 kg","2,1 m","
+                  Ronflex n'est pas satisfait tant qu'il n'a pas avalé ses 400 kg de nourriture quotidienne. Dès qu'il a fini, il commence une sieste pour digérer.
+                ",,Normal,
+151,Artikodin,https://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png,Pression,Glaciaire,"55,4 kg","1,7 m","
+                  Un Pokémon oiseau légendaire. L'hiver, il glace la vapeur d'eau contenue dans l'air pour faire de la neige.
+                ",Vol,Glace,
+151,Électhor,https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png,Pression,Électrique,"52,6 kg","1,6 m","
+                  Ce Pokémon oiseau légendaire apparaît quand le ciel s'assombrit et que la foudre ne cesse de tomber.
+                ",Vol,Électrik,
+151,Sulfura,https://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png,Pression,Flamme,"60,0 kg","2,0 m","
+                  Quand ce Pokémon oiseau légendaire agite ses ailes de feu, même la nuit noire s'embrase et rougeoie.
+                ",Vol,Feu,
+151,Minidraco,https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png,Mue,Dragon,"3,3 kg","1,8 m","
+                  L'existence de ce Pokémon mythique n'a été confirmée que récemment par un pêcheur.
+                ",,Dragon,
+151,Draco,https://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png,Mue,Dragon,"16,5 kg","4,0 m","
+                  Selon des témoins, son corps est baigné d'une étrange aura lui donnant un air mystique.
+                ",,Dragon,
+151,Dracolosse,https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png,Attention,Dragon,"210,0 kg","2,2 m","
+                  On raconte que ce Pokémon vit quelque part dans la mer et qu'il peut voler. Rien n'est moins sûr.
+                ",Vol,Dragon,
+151,Mewtwo,https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png,Pression,Génétique,"122,0 kg","2,0 m","
+                  Son ADN est presque le même que celui de Mew, mais sa taille et son caractère sont très différents.
+                ",,Psy,
+151,Mew,https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png,Synchro,Nouveau,"4,0 kg","0,4 m","
+                  À l'aide d'un microscope, on peut distinguer le pelage extrêmement court, fin et délicat de ce Pokémon.
+                ",,Psy,
